@@ -1,4 +1,4 @@
-# Propjeto DIO Criação de site
+# Projeto DIO Criação de site
 Repositorio criado de projeto criação de site
 
 ##Links Uteis 
